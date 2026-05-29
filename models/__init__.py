@@ -1,0 +1,1 @@
+from . import Inherit_SaleOrder
